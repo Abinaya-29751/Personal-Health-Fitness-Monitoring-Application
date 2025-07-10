@@ -49,7 +49,9 @@ flutter run
 
 ## 🎥 Demo
 
-[![Watch the demo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqhLzaPNJKkTL20xfyMy_yuPx91oTz6TxIytYChkQxbz_4WWe_5WV6yChsU4y7kjtBdxw&usqp=CAU)]([https://drive.google.com/file/d/1ifTKyM5wXdEkkeAaYZLvtIUcB3BsXk4J/view?usp=sharing](https://drive.google.com/file/d/1nkQusH5ZKakwCGbn_bzur1RkyIaNROoX/view?usp=sharing))
+[![Watch the demo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqhLzaPNJKkTL20xfyMy_yuPx91oTz6TxIytYChkQxbz_4WWe_5WV6yChsU4y7kjtBdxw&usqp=CAU)]
+
+([https://drive.google.com/file/d/1ifTKyM5wXdEkkeAaYZLvtIUcB3BsXk4J/view?usp=sharing](https://drive.google.com/file/d/1nkQusH5ZKakwCGbn_bzur1RkyIaNROoX/view?usp=sharing))
 
 > This video demonstrates the key features of the app including workout logging, step counting, and hydration tracking.
 

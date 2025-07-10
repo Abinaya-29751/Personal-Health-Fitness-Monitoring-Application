@@ -49,7 +49,7 @@ flutter run
 
 ## 🎥 Demo
 
-[![Watch the demo](https://www.google.com/imgres?q=vedio%20image&imgurl=https%3A%2F%2Fimg.freepik.com%2Fpremium-vector%2Fvedio-button-pictogram_764382-13414.jpg&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Fpremium-vector%2Fvedio-button-pictogram_202058645.htm&docid=DapS3B2rKnVpqM&tbnid=PQIE51iW6ouK-M&vet=12ahUKEwj57pn93LKOAxWCd2wGHXRgCbQQM3oECGsQAA..i&w=626&h=626&hcb=2&ved=2ahUKEwj57pn93LKOAxWCd2wGHXRgCbQQM3oECGsQAA)](https://drive.google.com/file/d/1ifTKyM5wXdEkkeAaYZLvtIUcB3BsXk4J/view?usp=sharing)
+[![Watch the demo](https://www.google.com/imgres?q=vedio%20image&imgurl=https%3A%2F%2Fimg.freepik.com%2Fpremium-vector%2Fvedio-button-pictogram_764382-13414.jpg&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Fpremium-vector%2Fvedio-button-pictogram_202058645.htm&docid=DapS3B2rKnVpqM&tbnid=PQIE51iW6ouK-M&vet=12ahUKEwj57pn93LKOAxWCd2wGHXRgCbQQM3oECGsQAA..i&w=626&h=626&hcb=2&ved=2ahUKEwj57pn93LKOAxWCd2wGHXRgCbQQM3oECGsQAA)]([https://drive.google.com/file/d/1ifTKyM5wXdEkkeAaYZLvtIUcB3BsXk4J/view?usp=sharing](https://drive.google.com/file/d/1nkQusH5ZKakwCGbn_bzur1RkyIaNROoX/view?usp=sharing))
 
 > This video demonstrates the key features of the app including workout logging, step counting, and hydration tracking.
 

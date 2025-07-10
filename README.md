@@ -51,7 +51,7 @@ flutter run
 
 [![Watch the demo](https://img.icons8.com/ios-filled/100/play-button-circled.png)](https://drive.google.com/file/d/1nkQusH5ZKakwCGbn_bzur1RkyIaNROoX/view?usp=sharing)
 
-> 📱 Click the image above to watch the demo on Google Drive.
+> 📱 Click the image above to watch the demo.
 
 > This video demonstrates the key features of the app including workout logging, step counting, and hydration tracking.
 
